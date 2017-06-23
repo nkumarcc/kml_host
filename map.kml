@@ -16,5 +16,13 @@
                 <coordinates>-122.340141,47.608940,0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="placemark2">
+            <name>Buddha Thai &amp; Bar</name>
+            <description>2222 2nd Ave, Seattle, WA</description>
+            <styleUrl>#barStyle</styleUrl>
+            <Point>
+                <coordinates>-122.344391,47.613590</coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>
