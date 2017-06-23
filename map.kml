@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns = "http://earth.google.com/kml/2.1">
     <Document>
+        <Style id="restaurantStyle">
+            <IconStyle id="restuarantIcon">
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pal2/icon63.png</href>
+                </Icon>
+            </IconStyle>
+        </Style
         <Placemark id="placemark1">
             <name>Pan Africa Market</name>
             <description>1521 1st Ave, Seattle, WA</description>
