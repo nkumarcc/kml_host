@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns = "http://earth.google.com/kml/2.1">
     <Document>
-        <Placemark>
+        <Placemark id="placemark1">
             <name>Pan Africa Market</name>
             <description>1521 1st Ave, Seattle, WA</description>
             <Point>
