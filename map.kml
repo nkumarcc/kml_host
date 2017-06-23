@@ -11,6 +11,7 @@
         <Placemark id="placemark1">
             <name>Pan Africa Market</name>
             <description>1521 1st Ave, Seattle, WA</description>
+            <styleUrl>#restaurantStyle</styleUrl>
             <Point>
                 <coordinates>-122.340141,47.608940,0</coordinates>
             </Point>
